@@ -1,2 +1,2 @@
 # Heap
-Heap Data Structure
+C implementation of Heap Data Structure 
